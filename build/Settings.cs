@@ -55,7 +55,7 @@ namespace Build
 
         public static readonly string ExtensionsJsonFileName = "extensions.json";
 
-        public static string ExtensionBundleId = "Microsoft.Azure.Functions.ExtensionBundle";
+        public static string ExtensionBundleId = "Microsoft.Azure.Functions.ExtensionBundle.Preview";
 
         public static string ExtensionBundleVersionRange = "[3.*, 4.0.0)";
 
